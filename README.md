@@ -4,12 +4,34 @@
 
 ### Social Networks
 
-<p align="left"> <a href="https://discord.com/users/ivancidev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ivancidev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ivancidev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/herlan-herbas-zubieta" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herlan-herbas-zubieta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](http://www.instagram.com/ivancidev) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ivancidev)
+
+👨‍💻 All of my projects are available at [https://github.com/ivancidev](https://github.com/ivancidev)
+
+📫 How to reach me **herlanherbas@gmail.com**
 
 
-
-### About Me 👨‍💻
+### About Me 😎
 I am a web developer passionate about web-related technologies. I enjoy learning new tools and staying up to date with the latest technological trends. I like to share my knowledge and help others on their learning path.
+
+## I’m currently learning 👨‍💻
+I’m currently focusing on frontend development, practicing with JavaScript and creating small projects with React and Tailwind CSS. I’m also diving into backend development with NestJS, TypeORM, and Node.js using Express. Additionally, I’m learning about Dockerization, API creation, and more.
+
+### Frontend
+- **JavaScript**
+- **React**
+- **Tailwind CSS**
+- **Nextjs**
+
+### Backend
+- **NestJS**
+- **TypeORM**
+- **Node.js with Express**
+- **Docker**
+
+### Other
+- **API creation**
+
 
 ### Tecnologies 💻
 
