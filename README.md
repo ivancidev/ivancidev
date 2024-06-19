@@ -52,7 +52,7 @@ I’m currently focusing on frontend development, practicing with JavaScript and
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivancidev&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivancidev&layout=donut&theme=tokyonight)
 
 
 
