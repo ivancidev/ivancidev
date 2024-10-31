@@ -1,4 +1,9 @@
-# Hello, World I am ivancidev👋
+
+<div class="hero-text">
+  <h1 align="center"> Hello, World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+ <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+ivancidev+👨‍💻;+Web+Application+Developer;+React+Developer;+NodeJS+Developer;+Junior+Full-Stack+Developer;" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/ivancidev">
@@ -12,13 +17,20 @@
   <img src="https://github-profile-trophy.vercel.app?username=ivancidev&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-### Social Networks
-
+<div align="center">
+ <h1 align="center">Social Networks</h1>
+  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herlan-herbas-zubieta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](http://www.instagram.com/ivancidev) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ivancidev)
+
+</div>
+
+
 
 👨‍💻 All of my projects are available at [https://github.com/ivancidev](https://github.com/ivancidev)
 
 📫 How to reach me **herlanherbas@gmail.com**
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### About Me 😎
 
@@ -56,7 +68,6 @@ I’m currently focusing on frontend development, practicing with JavaScript and
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
