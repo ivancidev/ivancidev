@@ -161,20 +161,12 @@ const ivancidev = {
   <img src="https://streak-stats.demolab.com?user=ivancidev&theme=midnight-purple&border=7c3aed&background=0d0d1a&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa" height="160" alt="Streak Stats"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=ivancidev&theme=discord&column=7&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false" height="140" alt="Trophy Graph"/>
-</div>
-
 ---
 
-## 🐍 Contribution Snake
+## 🛠️ Skills at a Glance
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivancidev/ivancidev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivancidev/ivancidev/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ivancidev/ivancidev/output/github-snake.svg" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,nodejs,nestjs,docker,postgres,mongodb,redis,azure,github,figma,python,tailwind,vite&perline=8" alt="Skills Icons" />
 </div>
 
 ---
@@ -183,6 +175,14 @@ const ivancidev = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivancidev&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c084fc&area=true&hide_border=false&border_color=7c3aed&radius=16" height="300" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ivancidev/ivancidev/output/github-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
