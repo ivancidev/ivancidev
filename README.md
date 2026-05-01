@@ -26,10 +26,6 @@
   <a href="http://www.instagram.com/ivancidev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  &nbsp;
-  <a href="https://discord.com/users/ivancidev">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
 </div>
 
 <br/>
