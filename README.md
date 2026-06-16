@@ -45,10 +45,10 @@ const ivancidev = {
   alias:        "ivancidev",
   location:     "Cochabamba, Bolivia 🇧🇴",
   role:         "Full-Stack Developer | AI Automation",
-  focus:        ["React", "Next.js", "TypeScript", "NestJS", "n8n"],
+  focus:        ["React", "Next.js", "TypeScript", "NestJS", "n8n", "LLM Workflows"],
   architecture: ["Atomic Design", "Clean Architecture", "Microservices"],
-  aiTools:      ["Claude", "OpenAI", "n8n", "Cursor", "GitHub Copilot"],
-  learning:     ["System Design", "LLM Workflows", "Azure Cloud"],
+  aiTools:      ["Claude", "OpenAI", "Groq", "n8n", "RAG", "Cursor", "GitHub Copilot"],
+  learning:     ["System Design", "Azure Cloud", "Multi-Agent Systems"],
   available:    true, // open to remote opportunities 🌍
   contact:      "herlanherbas@gmail.com",
 };
@@ -95,6 +95,7 @@ const ivancidev = {
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -135,12 +136,14 @@ const ivancidev = {
 
 | 🚀 Project | 📝 Description | 🔧 Stack |
 |:---:|:---|:---:|
+| [**worldcup-ai-predictor**](https://github.com/ivancidev/worldcup-ai-predictor) | 🏆 AI bracket predictor for FIFA World Cup 2026 with real-time Groq/LLaMA insights | `Next.js` `Groq` `LLaMA` |
+| [**doqify**](https://github.com/ivancidev/doqify) | 📄 Intelligent document assistant using RAG, Supabase pgvector and Llama 3 | `Next.js` `RAG` `Supabase` |
+| [**n8n-ai-automations**](https://github.com/ivancidev/n8n-ai-automations) | 🤖 Production AI workflows: RAG systems, multi-agent orchestration, WhatsApp bots | `n8n` `Anthropic` `RAG` |
+| [**statup-platform**](https://github.com/ivancidev/statup-platform) | 🚀 SaaS platform with authentication, dashboard and scalable frontend architecture | `Next.js` `TypeScript` `Tailwind` |
 | [**webTime**](https://github.com/ivancidev/webTime) | 🎧 Audiobooks platform focused on programming education | `React` `TypeScript` |
 | [**gta6-landing-clone**](https://github.com/ivancidev/gta6-landing-clone) | 🎮 GTA VI landing page with immersive GSAP animations | `Astro` `React` `GSAP` |
 | [**ApiRest-NestJS-Docker**](https://github.com/ivancidev/ApiRest-con-Nestjs-TypeORM-Docker-y-PostgreSQL) | ⚙️ Production-ready REST API with full containerization | `NestJS` `TypeORM` `Docker` |
 | [**useTeam Kanban**](https://github.com/ivancidev/useTeam-kanban-challenge) | 📋 Real-time Kanban board with team collaboration | `TypeScript` `WebSockets` |
-| [**workBoardAgile**](https://github.com/ivancidev/workBoardAgile) | 🗂️ Agile project management platform | `TypeScript` `React` |
-| [**x-clone**](https://github.com/ivancidev/x-clone-twitter) | 🐦 Full Twitter/X clone with backend + frontend | `TypeScript` `NestJS` |
 
 </div>
 
