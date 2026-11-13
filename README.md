@@ -1,191 +1,145 @@
-<a href="https://github.com/ivancidev">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ivan%20Herlan%20Herbas%20Zubieta&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20•%20Cochabamba%2C%20Bolivia&descAlignY=58&descSize=16&descColor=a78bfa&animation=fadeIn" alt="Header" />
+<a href="https://portfolio-ivan-herlan-herbas-zubieta.vercel.app/en">
+  <img width="100%" src="./assets/hero.svg" alt="Ivan Herlan Herbas — Full Stack Developer: Web, Mobile & AI" />
 </a>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%2B+Next.js+%2B+TypeScript+%2B+NestJS+%E2%9A%A1;AI+Automation+%7C+n8n+%7C+LLM+Workflows+%F0%9F%A4%96;Atomic+Design+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;Open+to+remote+opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
-  </a>
+
+<a href="https://portfolio-ivan-herlan-herbas-zubieta.vercel.app/en"><img src="https://img.shields.io/badge/Portfolio-0B0B14?style=for-the-badge&logo=vercel&logoColor=C4B5FD" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/herlan-herbas-zubieta"><img src="https://img.shields.io/badge/LinkedIn-0B0B14?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn"/></a>
+<a href="mailto:herlanherbas@gmail.com"><img src="https://img.shields.io/badge/Email-0B0B14?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email"/></a>
+<a href="https://ivancidev-blog.vercel.app"><img src="https://img.shields.io/badge/Blog-0B0B14?style=for-the-badge&logo=astro&logoColor=C4B5FD" alt="Blog"/></a>
+<a href="https://www.instagram.com/ivancidev"><img src="https://img.shields.io/badge/Instagram-0B0B14?style=for-the-badge&logo=instagram&logoColor=C4B5FD" alt="Instagram"/></a>
+
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/herlan-herbas-zubieta">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:herlanherbas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/ivancidev">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="http://www.instagram.com/ivancidev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
+### About
+
+I build web, mobile and AI products end to end: the interface, the API, the data model and the automation around them. Most of my recent work sits where product engineering meets AI — retrieval over large document sets, agents that talk to real users, and pipelines that remove manual work from a team's day.
+
+I care about contracts between layers, code that the next developer can change safely, and shipping things people actually use.
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ivancidev&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ivancidev?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers" />
-</div>
+### Selected work
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Legal AI search</b><br/>
+      <sub>Retrieval over national and EU law with validity tracked per article, cited answers, and a lawyer review queue so no decision rests on an unverified external signal.</sub><br/>
+      <sub><code>FastAPI</code> <code>Qdrant</code> <code>NestJS</code> <code>MongoDB</code> <code>React 19</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Payroll & HR platform</b><br/>
+      <sub>Frontend for an HR ERP built against API contracts and mocks, so connecting the real backend touched one file per feature. Pension and tax bases made auditable on the payslip.</sub><br/>
+      <sub><code>React 19</code> <code>TanStack Router</code> <code>React Query</code> <code>Vitest</code> <code>MSW</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Invoice processing pipeline</b><br/>
+      <sub>OCR extraction, AI classification of ambiguous fields and automatic upload to sheets. About 60% less operational load, running without supervision.</sub><br/>
+      <sub><code>n8n</code> <code>Claude</code> <code>Google Vision</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>WhatsApp support agent</b><br/>
+      <sub>Conversational agent with context, voice and human escalation. Response time went from hours to seconds; human workload down 70%.</sub><br/>
+      <sub><code>n8n</code> <code>OpenAI</code> <code>ElevenLabs</code> <code>NestJS</code></sub>
+    </td>
+  </tr>
+</table>
 
-## 🧑‍💻 About Me
+<p align="right"><sub><a href="https://portfolio-ivan-herlan-herbas-zubieta.vercel.app/en">Full case studies →</a></sub></p>
 
-```typescript
-const ivancidev = {
-  name:         "Ivan Herlan Herbas Zubieta",
-  alias:        "ivancidev",
-  location:     "Cochabamba, Bolivia 🇧🇴",
-  role:         "Full-Stack Developer | AI Automation",
-  focus:        ["React", "Next.js", "TypeScript", "NestJS", "n8n", "LLM Workflows"],
-  architecture: ["Atomic Design", "Clean Architecture", "Microservices"],
-  aiTools:      ["Claude", "OpenAI", "Groq", "n8n", "RAG", "Cursor", "GitHub Copilot"],
-  learning:     ["System Design", "Azure Cloud", "Multi-Agent Systems"],
-  available:    true, // open to remote opportunities 🌍
-  contact:      "herlanherbas@gmail.com",
-};
-```
+### Projects
 
----
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://skillstudio-kappa.vercel.app"><img width="100%" src="./assets/cards/skillstudio.svg" alt="SkillStudio"/></a>
+      <p align="center"><sub><a href="https://github.com/ivancidev/skillstudio">Code</a> · <a href="https://skillstudio-kappa.vercel.app">Live</a></sub></p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/ivancidev/prepai"><img width="100%" src="./assets/cards/prepai.svg" alt="PrepAI"/></a>
+      <p align="center"><sub><a href="https://github.com/ivancidev/prepai">Frontend</a> · <a href="https://github.com/ivancidev/prepai-back">Backend</a></sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://doqify.vercel.app"><img width="100%" src="./assets/cards/doqify.svg" alt="Doqify"/></a>
+      <p align="center"><sub><a href="https://github.com/ivancidev/doqify">Code</a> · <a href="https://doqify.vercel.app">Live</a></sub></p>
+    </td>
+    <td width="50%">
+      <a href="https://cvearly.vercel.app"><img width="100%" src="./assets/cards/cvearly.svg" alt="CVearly"/></a>
+      <p align="center"><sub><a href="https://github.com/ivancidev/cvearly">Code</a> · <a href="https://cvearly.vercel.app">Live</a></sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://worldcup-ai-predictor-sage.vercel.app"><img width="100%" src="./assets/cards/worldcup.svg" alt="World Cup AI Predictor"/></a>
+      <p align="center"><sub><a href="https://github.com/ivancidev/worldcup-ai-predictor">Code</a> · <a href="https://worldcup-ai-predictor-sage.vercel.app">Live</a></sub></p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/ivancidev/n8n-ai-automations"><img width="100%" src="./assets/cards/n8n.svg" alt="n8n AI Automations"/></a>
+      <p align="center"><sub><a href="https://github.com/ivancidev/n8n-ai-automations">Code</a></sub></p>
+    </td>
+  </tr>
+</table>
 
-## 🚀 Tech Stack
+<details>
+<summary><b>More projects</b></summary>
+<br/>
 
-### 🖥️ Frontend
-<div>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-433e38?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
+| Project | What it is | Stack |
+|:--|:--|:--|
+| [webTime](https://github.com/ivancidev/webTime) · [live](https://web-time-seven.vercel.app) | Audiobook platform for learning web programming | `React` `Node.js` |
+| [useTeam Kanban](https://github.com/ivancidev/useTeam-kanban-challenge) · [live](https://use-team-kanban-challenge.vercel.app) | Real-time Kanban board for teams | `Next.js` `NestJS` `WebSockets` |
+| [workBoardAgile](https://github.com/ivancidev/workBoardAgile) · [live](https://work-board-agile.vercel.app) | Agile project management with visual boards | `React` `TypeScript` |
+| [x-clone](https://github.com/ivancidev/x-clone-twitter) · [live](https://x-clone-twitter-murex.vercel.app/) | X/Twitter clone, frontend and [backend](https://github.com/ivancidev/x-clone-backend) | `Next.js` `NestJS` |
+| [gta6-landing](https://github.com/ivancidev/gta6-landing-clone) · [live](https://gta6-landing-clone.vercel.app) | Landing recreation with scroll-driven animation | `Astro` `GSAP` `Lenis` |
+| [ApiRest NestJS](https://github.com/ivancidev/ApiRest-con-Nestjs-TypeORM-Docker-y-PostgreSQL) | Containerized REST API | `NestJS` `TypeORM` `Docker` |
+| [ivancidev-blog](https://github.com/ivancidev/ivancidev-blog) · [live](https://ivancidev-blog.vercel.app) | Developer blog | `Astro` |
 
-### ⚙️ Backend
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</div>
+</details>
 
-### 🤖 AI & Automation
-<div>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
+<br/>
 
-### 🗄️ Databases & Cloud
-<div>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white"/>
-</div>
+### Stack
 
-### 🛠️ DevOps & Tools
-<div>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,tailwind,vite,astro,nodejs,nestjs,express&theme=dark" alt="Frontend and backend"/><br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,redis,supabase,prisma,docker,githubactions,azure&theme=dark" alt="Data and infrastructure"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-0B0B14?style=flat-square&logo=anthropic&logoColor=C4B5FD" alt="Claude"/>
+  <img src="https://img.shields.io/badge/OpenAI-0B0B14?style=flat-square&logo=openai&logoColor=C4B5FD" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Groq-0B0B14?style=flat-square&logo=groq&logoColor=C4B5FD" alt="Groq"/>
+  <img src="https://img.shields.io/badge/n8n-0B0B14?style=flat-square&logo=n8n&logoColor=C4B5FD" alt="n8n"/>
+  <img src="https://img.shields.io/badge/RAG-0B0B14?style=flat-square&logo=databricks&logoColor=C4B5FD" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Qdrant-0B0B14?style=flat-square&logo=qdrant&logoColor=C4B5FD" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/pgvector-0B0B14?style=flat-square&logo=postgresql&logoColor=C4B5FD" alt="pgvector"/>
+  <img src="https://img.shields.io/badge/ElevenLabs-0B0B14?style=flat-square&logo=elevenlabs&logoColor=C4B5FD" alt="ElevenLabs"/>
+</p>
 
-## 📌 Featured Projects
+<br/>
 
-<div align="center">
+### Activity
 
-| 🚀 Project | 📝 Description | 🔧 Stack |
-|:---:|:---|:---:|
-| [**worldcup-ai-predictor**](https://github.com/ivancidev/worldcup-ai-predictor) | 🏆 AI bracket predictor for FIFA World Cup 2026 with real-time Groq/LLaMA insights | `Next.js` `Groq` `LLaMA` |
-| [**doqify**](https://github.com/ivancidev/doqify) | 📄 Intelligent document assistant using RAG, Supabase pgvector and Llama 3 | `Next.js` `RAG` `Supabase` |
-| [**n8n-ai-automations**](https://github.com/ivancidev/n8n-ai-automations) | 🤖 Production AI workflows: RAG systems, multi-agent orchestration, WhatsApp bots | `n8n` `Anthropic` `RAG` |
-| [**statup-platform**](https://github.com/ivancidev/statup-platform) | 🚀 SaaS platform with authentication, dashboard and scalable frontend architecture | `Next.js` `TypeScript` `Tailwind` |
-| [**webTime**](https://github.com/ivancidev/webTime) | 🎧 Audiobooks platform focused on programming education | `React` `TypeScript` |
-| [**gta6-landing-clone**](https://github.com/ivancidev/gta6-landing-clone) | 🎮 GTA VI landing page with immersive GSAP animations | `Astro` `React` `GSAP` |
-| [**ApiRest-NestJS-Docker**](https://github.com/ivancidev/ApiRest-con-Nestjs-TypeORM-Docker-y-PostgreSQL) | ⚙️ Production-ready REST API with full containerization | `NestJS` `TypeORM` `Docker` |
-| [**useTeam Kanban**](https://github.com/ivancidev/useTeam-kanban-challenge) | 📋 Real-time Kanban board with team collaboration | `TypeScript` `WebSockets` |
+<p align="center">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivancidev&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0B0B14&title_color=C4B5FD&icon_color=8B5CF6&text_color=B4B4C8&ring_color=8B5CF6&border_color=1F1F2E&border_radius=14" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ivancidev&layout=compact&langs_count=8&hide_border=false&bg_color=0B0B14&title_color=C4B5FD&text_color=B4B4C8&border_color=1F1F2E&border_radius=14" alt="Top languages"/>
+</p>
 
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivancidev/ivancidev/output/github-snake-dark.svg"/>
+    <img width="100%" src="https://raw.githubusercontent.com/ivancidev/ivancidev/output/github-snake.svg" alt="Contribution graph"/>
+  </picture>
+</p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivancidev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=7c3aed&bg_color=0d0d1a" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ivancidev&layout=compact&langs_count=8&theme=midnight-purple&border_color=7c3aed&bg_color=0d0d1a" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ivancidev&theme=midnight-purple&border=7c3aed&background=0d0d1a&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa" height="160" alt="Streak Stats"/>
-</div>
-
----
-
-## 🛠️ Skills at a Glance
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,nodejs,nestjs,docker,postgres,mongodb,redis,azure,github,figma,python,tailwind,vite&perline=8" alt="Skills Icons" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivancidev&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c084fc&area=true&hide_border=false&border_color=7c3aed&radius=16" height="300" alt="Activity Graph"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ivancidev/ivancidev/output/github-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" alt="Footer"/>
-</div>
+<a href="mailto:herlanherbas@gmail.com">
+  <img width="100%" src="./assets/footer.svg" alt="Let's build something real — herlanherbas@gmail.com"/>
+</a>
