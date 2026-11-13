@@ -1,10 +1,9 @@
-<a href="https://portfolio-ivan-herlan-herbas-zubieta.vercel.app/en">
+<a href="https://github.com/ivancidev">
   <img width="100%" src="./assets/hero.svg" alt="Ivan Herlan Herbas — Full Stack Developer: Web, Mobile & AI" />
 </a>
 
 <div align="center">
 
-<a href="https://portfolio-ivan-herlan-herbas-zubieta.vercel.app/en"><img src="https://img.shields.io/badge/Portfolio-0B0B14?style=for-the-badge&logo=vercel&logoColor=C4B5FD" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/herlan-herbas-zubieta"><img src="https://img.shields.io/badge/LinkedIn-0B0B14?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn"/></a>
 <a href="mailto:herlanherbas@gmail.com"><img src="https://img.shields.io/badge/Email-0B0B14?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email"/></a>
 <a href="https://ivancidev-blog.vercel.app"><img src="https://img.shields.io/badge/Blog-0B0B14?style=for-the-badge&logo=astro&logoColor=C4B5FD" alt="Blog"/></a>
@@ -51,7 +50,6 @@ I care about contracts between layers, code that the next developer can change s
   </tr>
 </table>
 
-<p align="right"><sub><a href="https://portfolio-ivan-herlan-herbas-zubieta.vercel.app/en">Full case studies →</a></sub></p>
 
 ### Projects
 
