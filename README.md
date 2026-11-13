@@ -8,6 +8,7 @@
 <a href="mailto:herlanherbas@gmail.com"><img src="https://img.shields.io/badge/Email-0B0B14?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email"/></a>
 <a href="https://ivancidev-blog.vercel.app"><img src="https://img.shields.io/badge/Blog-0B0B14?style=for-the-badge&logo=astro&logoColor=C4B5FD" alt="Blog"/></a>
 <a href="https://www.instagram.com/ivancidev"><img src="https://img.shields.io/badge/Instagram-0B0B14?style=for-the-badge&logo=instagram&logoColor=C4B5FD" alt="Instagram"/></a>
+<a href="https://www.tiktok.com/@ivancidev"><img src="https://img.shields.io/badge/TikTok-0B0B14?style=for-the-badge&logo=tiktok&logoColor=C4B5FD" alt="TikTok"/></a>
 
 </div>
 
